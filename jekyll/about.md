@@ -5,6 +5,6 @@ title: About
 
 Jekyll HelloWorld project.
 
-<a href="https://docs.github.com/en/pages" target="blank">GitHub Pages</a>
+<a href="https://docs.github.com/en/pages" target="_blank">GitHub Pages</a>
 
-<a href="https://jekyllrb.com/docs/step-by-step/01-setup/" target="blank">Jekyll tutorial</a>
+<a href="https://jekyllrb.com/docs/step-by-step/01-setup/" target="_blank">Jekyll tutorial</a>
