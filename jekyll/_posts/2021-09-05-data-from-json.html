@@ -1,0 +1,21 @@
+---
+author: ted
+title: Data from json
+---
+
+Data from a JSON file
+
+<table border="1">
+	<tr>
+		<td>anArray</td>
+		<td>{{ site.data.jsonData.anArray | jsonify }}</td>
+	</tr>
+	<tr>
+		<td>aBoolean</td>
+		<td>{{ site.data.jsonData.aBoolean | jsonify }}</td>
+	</tr>
+	<tr>
+		<td>anObject</td>
+		<td>{{ site.data.jsonData.anObject | jsonify }}</td>
+	</tr>
+</table>

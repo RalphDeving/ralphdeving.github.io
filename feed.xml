@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-09-05T20:20:45-05:00</updated><id>/feed.xml</id><entry><title type="html">Bananas</title><link href="/2021/09/05/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2021-09-05T00:00:00-05:00</published><updated>2021-09-05T00:00:00-05:00</updated><id>/2021/09/05/bananas</id><content type="html" xml:base="/2021/09/05/bananas.html">&lt;p&gt;Lorem Ipsum about bananas.&lt;/p&gt;
+
+&lt;p&gt;Velit consectetur labore anim in consectetur adipisicing adipisicing ut labore. Irure dolor consequat consequat nostrud. Occaecat consequat labore in eiusmod aute anim amet do consequat occaecat cupidatat. Elit officia in aute nisi ad nostrud cillum elit ex quis commodo. Sint eu duis ullamco nostrud excepteur incididunt.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">Lorem Ipsum about bananas.</summary></entry><entry><title type="html">Data from CSV</title><link href="/2021/09/05/data-from-csv.html" rel="alternate" type="text/html" title="Data from CSV" /><published>2021-09-05T00:00:00-05:00</published><updated>2021-09-05T00:00:00-05:00</updated><id>/2021/09/05/data-from-csv</id><content type="html" xml:base="/2021/09/05/data-from-csv.html">&lt;p&gt;Data from a CSV file.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;John&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Doe&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Smith&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>ted</name></author><summary type="html">Data from a CSV file.</summary></entry><entry><title type="html">Data from json</title><link href="/2021/09/05/data-from-json.html" rel="alternate" type="text/html" title="Data from json" /><published>2021-09-05T00:00:00-05:00</published><updated>2021-09-05T00:00:00-05:00</updated><id>/2021/09/05/data-from-json</id><content type="html" xml:base="/2021/09/05/data-from-json.html">Data from a JSON file
+
+&lt;table border=&quot;1&quot;&gt;
+	&lt;tr&gt;
+		&lt;td&gt;anArray&lt;/td&gt;
+		&lt;td&gt;[1,2,3]&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;aBoolean&lt;/td&gt;
+		&lt;td&gt;true&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;anObject&lt;/td&gt;
+		&lt;td&gt;{&quot;aString&quot;:&quot;Hi&quot;}&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</content><author><name>ted</name></author><summary type="html">Data from a JSON file</summary></entry></feed>
