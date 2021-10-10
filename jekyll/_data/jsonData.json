@@ -1,7 +1,0 @@
-{
-	"anArray": [1, 2, 3],
-	"aBoolean": true,
-	"anObject": {
-		"aString": "Hi"
-	}
-}
