@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Hello There!</title>
+        <link>https://ralphdeving.github.io</link>
+        <description>Welcome to my personal blog of everyday development issues and solutions.</description>
+        <lastBuildDate>Tue, 19 Oct 2021 05:27:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Fourth]]></title>
+            <link>https://ralphdeving.github.io/blog/post/fourth</link>
+            <guid>https://ralphdeving.github.io/blog/post/fourth</guid>
+            <pubDate>Sun, 10 Oct 2021 23:45:22 GMT</pubDate>
+            <description><![CDATA[Fourth desc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fifth]]></title>
+            <link>https://ralphdeving.github.io/blog/post/fifth</link>
+            <guid>https://ralphdeving.github.io/blog/post/fifth</guid>
+            <pubDate>Sun, 10 Oct 2021 23:45:59 GMT</pubDate>
+            <description><![CDATA[Fifth desc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello, World!]]></title>
+            <link>https://ralphdeving.github.io/blog/post/hello-world</link>
+            <guid>https://ralphdeving.github.io/blog/post/hello-world</guid>
+            <pubDate>Sun, 10 Oct 2021 02:47:01 GMT</pubDate>
+            <description><![CDATA[So it begins...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Second]]></title>
+            <link>https://ralphdeving.github.io/blog/post/second</link>
+            <guid>https://ralphdeving.github.io/blog/post/second</guid>
+            <pubDate>Sun, 10 Oct 2021 23:42:40 GMT</pubDate>
+            <description><![CDATA[Second desc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Seventh]]></title>
+            <link>https://ralphdeving.github.io/blog/post/seventh</link>
+            <guid>https://ralphdeving.github.io/blog/post/seventh</guid>
+            <pubDate>Mon, 11 Oct 2021 00:00:33 GMT</pubDate>
+            <description><![CDATA[Seventh desc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sixth]]></title>
+            <link>https://ralphdeving.github.io/blog/post/sixth</link>
+            <guid>https://ralphdeving.github.io/blog/post/sixth</guid>
+            <pubDate>Sun, 10 Oct 2021 23:49:21 GMT</pubDate>
+            <description><![CDATA[Sixth desc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Third]]></title>
+            <link>https://ralphdeving.github.io/blog/post/third</link>
+            <guid>https://ralphdeving.github.io/blog/post/third</guid>
+            <pubDate>Sun, 10 Oct 2021 23:43:39 GMT</pubDate>
+            <description><![CDATA[Third desc]]></description>
+        </item>
+    </channel>
+</rss>
