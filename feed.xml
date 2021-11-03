@@ -4,58 +4,9 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Tue, 26 Oct 2021 09:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 06:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
-        <item>
-            <title><![CDATA[Seventh]]></title>
-            <link>https://ralphdeving.github.io/blog/post/seventh</link>
-            <guid>https://ralphdeving.github.io/blog/post/seventh</guid>
-            <pubDate>Sun, 07 Jul 2024 05:00:00 GMT</pubDate>
-            <description><![CDATA[Seventh desc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sixth]]></title>
-            <link>https://ralphdeving.github.io/blog/post/sixth</link>
-            <guid>https://ralphdeving.github.io/blog/post/sixth</guid>
-            <pubDate>Thu, 06 Jun 2024 05:00:00 GMT</pubDate>
-            <description><![CDATA[Sixth desc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fifth]]></title>
-            <link>https://ralphdeving.github.io/blog/post/fifth</link>
-            <guid>https://ralphdeving.github.io/blog/post/fifth</guid>
-            <pubDate>Fri, 05 May 2023 05:00:00 GMT</pubDate>
-            <description><![CDATA[Fifth desc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fourth]]></title>
-            <link>https://ralphdeving.github.io/blog/post/fourth</link>
-            <guid>https://ralphdeving.github.io/blog/post/fourth</guid>
-            <pubDate>Tue, 04 Apr 2023 05:00:00 GMT</pubDate>
-            <description><![CDATA[Fourth desc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Injected]]></title>
-            <link>https://ralphdeving.github.io/blog/post/injected</link>
-            <guid>https://ralphdeving.github.io/blog/post/injected</guid>
-            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Injected desc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Third]]></title>
-            <link>https://ralphdeving.github.io/blog/post/third</link>
-            <guid>https://ralphdeving.github.io/blog/post/third</guid>
-            <pubDate>Thu, 03 Mar 2022 06:00:00 GMT</pubDate>
-            <description><![CDATA[Third desc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Second]]></title>
-            <link>https://ralphdeving.github.io/blog/post/second</link>
-            <guid>https://ralphdeving.github.io/blog/post/second</guid>
-            <pubDate>Wed, 02 Feb 2022 06:00:00 GMT</pubDate>
-            <description><![CDATA[Second desc]]></description>
-        </item>
         <item>
             <title><![CDATA[Hello, World!]]></title>
             <link>https://ralphdeving.github.io/blog/post/hello-world</link>
