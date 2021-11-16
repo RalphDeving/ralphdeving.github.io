@@ -4,9 +4,16 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Wed, 03 Nov 2021 06:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 04:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Vue Router Scroll Behavior]]></title>
+            <link>https://ralphdeving.github.io/blog/post/vue-router-scroll-behavior</link>
+            <guid>https://ralphdeving.github.io/blog/post/vue-router-scroll-behavior</guid>
+            <pubDate>Tue, 16 Nov 2021 00:12:30 GMT</pubDate>
+            <description><![CDATA[Full native-like scroll behavior for Vue or Nuxt apps]]></description>
+        </item>
         <item>
             <title><![CDATA[Hello, World!]]></title>
             <link>https://ralphdeving.github.io/blog/post/hello-world</link>
