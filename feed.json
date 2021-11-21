@@ -10,6 +10,14 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/syntax-highlighting-theme-nuxt-content",
+            "url": "https://ralphdeving.github.io/blog/post/syntax-highlighting-theme-nuxt-content",
+            "title": "Switch Syntax Highlighting Theme In @nuxt/content",
+            "summary": "A simple way to switch PrismJS syntax highlighting theme when using @nuxt/content",
+            "date_modified": "2021-11-21T05:17:44.043Z",
+            "date_published": "2021-11-21T00:05:53.287Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/vue-router-scroll-behavior",
             "url": "https://ralphdeving.github.io/blog/post/vue-router-scroll-behavior",
             "title": "Vue Router Scroll Behavior",

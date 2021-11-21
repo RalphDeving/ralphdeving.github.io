@@ -4,9 +4,16 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Tue, 16 Nov 2021 04:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 05:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Switch Syntax Highlighting Theme In @nuxt/content]]></title>
+            <link>https://ralphdeving.github.io/blog/post/syntax-highlighting-theme-nuxt-content</link>
+            <guid>https://ralphdeving.github.io/blog/post/syntax-highlighting-theme-nuxt-content</guid>
+            <pubDate>Sun, 21 Nov 2021 00:05:53 GMT</pubDate>
+            <description><![CDATA[A simple way to switch PrismJS syntax highlighting theme when using @nuxt/content]]></description>
+        </item>
         <item>
             <title><![CDATA[Vue Router Scroll Behavior]]></title>
             <link>https://ralphdeving.github.io/blog/post/vue-router-scroll-behavior</link>
