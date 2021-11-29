@@ -4,21 +4,28 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Sun, 21 Nov 2021 05:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Quick @nuxt/content reference]]></title>
+            <link>https://ralphdeving.github.io/blog/post/quick-nuxt-content-reference</link>
+            <guid>https://ralphdeving.github.io/blog/post/quick-nuxt-content-reference</guid>
+            <pubDate>Mon, 29 Nov 2021 07:56:00 GMT</pubDate>
+            <description><![CDATA[Some references for creating a Blog with @nuxt/content]]></description>
+        </item>
         <item>
             <title><![CDATA[Switch Syntax Highlighting Theme In @nuxt/content]]></title>
             <link>https://ralphdeving.github.io/blog/post/syntax-highlighting-theme-nuxt-content</link>
             <guid>https://ralphdeving.github.io/blog/post/syntax-highlighting-theme-nuxt-content</guid>
-            <pubDate>Sun, 21 Nov 2021 00:05:53 GMT</pubDate>
+            <pubDate>Sun, 21 Nov 2021 05:17:44 GMT</pubDate>
             <description><![CDATA[A simple way to switch PrismJS syntax highlighting theme when using @nuxt/content]]></description>
         </item>
         <item>
             <title><![CDATA[Vue Router Scroll Behavior]]></title>
             <link>https://ralphdeving.github.io/blog/post/vue-router-scroll-behavior</link>
             <guid>https://ralphdeving.github.io/blog/post/vue-router-scroll-behavior</guid>
-            <pubDate>Tue, 16 Nov 2021 00:12:30 GMT</pubDate>
+            <pubDate>Tue, 16 Nov 2021 03:28:09 GMT</pubDate>
             <description><![CDATA[Full native-like scroll behavior for Vue or Nuxt apps]]></description>
         </item>
         <item>

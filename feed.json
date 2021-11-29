@@ -10,12 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/quick-nuxt-content-reference",
+            "url": "https://ralphdeving.github.io/blog/post/quick-nuxt-content-reference",
+            "title": "Quick @nuxt/content reference",
+            "summary": "Some references for creating a Blog with @nuxt/content",
+            "date_modified": "2021-11-29T07:56:00.117Z",
+            "date_published": "2021-11-29T07:56:00.117Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/syntax-highlighting-theme-nuxt-content",
             "url": "https://ralphdeving.github.io/blog/post/syntax-highlighting-theme-nuxt-content",
             "title": "Switch Syntax Highlighting Theme In @nuxt/content",
             "summary": "A simple way to switch PrismJS syntax highlighting theme when using @nuxt/content",
             "date_modified": "2021-11-21T05:17:44.043Z",
-            "date_published": "2021-11-21T00:05:53.287Z"
+            "date_published": "2021-11-21T05:17:44.043Z"
         },
         {
             "id": "https://ralphdeving.github.io/blog/post/vue-router-scroll-behavior",
@@ -23,7 +31,7 @@
             "title": "Vue Router Scroll Behavior",
             "summary": "Full native-like scroll behavior for Vue or Nuxt apps",
             "date_modified": "2021-11-16T03:28:09.966Z",
-            "date_published": "2021-11-16T00:12:30.113Z"
+            "date_published": "2021-11-16T03:28:09.966Z"
         },
         {
             "id": "https://ralphdeving.github.io/blog/post/hello-world",
