@@ -10,6 +10,30 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/normalize-audio-kubuntu",
+            "url": "https://ralphdeving.github.io/blog/post/normalize-audio-kubuntu",
+            "title": "Normalize Audio on Kubuntu",
+            "summary": "Avoiding the sound roller coaster",
+            "date_modified": "2021-12-13T00:16:20.942Z",
+            "date_published": "2021-12-13T00:16:20.942Z"
+        },
+        {
+            "id": "https://ralphdeving.github.io/blog/post/scroll-lock-keyboard-lights",
+            "url": "https://ralphdeving.github.io/blog/post/scroll-lock-keyboard-lights",
+            "title": "Toggle Keyboard Lights on Kubuntu",
+            "summary": "Lights bound to Scroll Lock key",
+            "date_modified": "2021-12-12T23:07:43.378Z",
+            "date_published": "2021-12-12T23:07:43.378Z"
+        },
+        {
+            "id": "https://ralphdeving.github.io/blog/post/logitech-mx-anywhere-2s-kubuntu",
+            "url": "https://ralphdeving.github.io/blog/post/logitech-mx-anywhere-2s-kubuntu",
+            "title": "Configure Logitech MX Anywhere 2s Mouse on Kubuntu",
+            "summary": "Customize the buttons and extra buttons",
+            "date_modified": "2021-12-12T21:44:49.854Z",
+            "date_published": "2021-12-12T21:44:49.854Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/quick-nuxt-content-reference",
             "url": "https://ralphdeving.github.io/blog/post/quick-nuxt-content-reference",
             "title": "Quick @nuxt/content reference",

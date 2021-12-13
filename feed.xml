@@ -4,9 +4,30 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Mon, 29 Nov 2021 08:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 00:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Normalize Audio on Kubuntu]]></title>
+            <link>https://ralphdeving.github.io/blog/post/normalize-audio-kubuntu</link>
+            <guid>https://ralphdeving.github.io/blog/post/normalize-audio-kubuntu</guid>
+            <pubDate>Mon, 13 Dec 2021 00:16:20 GMT</pubDate>
+            <description><![CDATA[Avoiding the sound roller coaster]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Toggle Keyboard Lights on Kubuntu]]></title>
+            <link>https://ralphdeving.github.io/blog/post/scroll-lock-keyboard-lights</link>
+            <guid>https://ralphdeving.github.io/blog/post/scroll-lock-keyboard-lights</guid>
+            <pubDate>Sun, 12 Dec 2021 23:07:43 GMT</pubDate>
+            <description><![CDATA[Lights bound to Scroll Lock key]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Configure Logitech MX Anywhere 2s Mouse on Kubuntu]]></title>
+            <link>https://ralphdeving.github.io/blog/post/logitech-mx-anywhere-2s-kubuntu</link>
+            <guid>https://ralphdeving.github.io/blog/post/logitech-mx-anywhere-2s-kubuntu</guid>
+            <pubDate>Sun, 12 Dec 2021 21:44:49 GMT</pubDate>
+            <description><![CDATA[Customize the buttons and extra buttons]]></description>
+        </item>
         <item>
             <title><![CDATA[Quick @nuxt/content reference]]></title>
             <link>https://ralphdeving.github.io/blog/post/quick-nuxt-content-reference</link>
