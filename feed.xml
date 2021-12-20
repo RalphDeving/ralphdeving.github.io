@@ -4,9 +4,16 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Mon, 13 Dec 2021 00:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 01:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[CPU and GPU monitoring on Kubuntu]]></title>
+            <link>https://ralphdeving.github.io/blog/post/cpu-gpu-monitoring-kubuntu</link>
+            <guid>https://ralphdeving.github.io/blog/post/cpu-gpu-monitoring-kubuntu</guid>
+            <pubDate>Sun, 19 Dec 2021 20:13:30 GMT</pubDate>
+            <description><![CDATA[Temperature sensors and fan control]]></description>
+        </item>
         <item>
             <title><![CDATA[Normalize Audio on Kubuntu]]></title>
             <link>https://ralphdeving.github.io/blog/post/normalize-audio-kubuntu</link>

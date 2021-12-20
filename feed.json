@@ -10,6 +10,14 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/cpu-gpu-monitoring-kubuntu",
+            "url": "https://ralphdeving.github.io/blog/post/cpu-gpu-monitoring-kubuntu",
+            "title": "CPU and GPU monitoring on Kubuntu",
+            "summary": "Temperature sensors and fan control",
+            "date_modified": "2021-12-19T20:13:30.988Z",
+            "date_published": "2021-12-19T20:13:30.988Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/normalize-audio-kubuntu",
             "url": "https://ralphdeving.github.io/blog/post/normalize-audio-kubuntu",
             "title": "Normalize Audio on Kubuntu",
