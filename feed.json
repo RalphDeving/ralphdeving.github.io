@@ -10,6 +10,14 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/include-maven-dependency-jar",
+            "url": "https://ralphdeving.github.io/blog/post/include-maven-dependency-jar",
+            "title": "Include Maven dependencies in .jar",
+            "summary": "Using the maven-assembly-plugin",
+            "date_modified": "2021-12-22T05:06:24.129Z",
+            "date_published": "2021-12-22T05:06:24.129Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/cpu-gpu-monitoring-kubuntu",
             "url": "https://ralphdeving.github.io/blog/post/cpu-gpu-monitoring-kubuntu",
             "title": "CPU and GPU monitoring on Kubuntu",
