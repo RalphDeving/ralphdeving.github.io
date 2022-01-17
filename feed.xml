@@ -4,9 +4,16 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Wed, 22 Dec 2021 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 09:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Using MySQL as Database for Keycloak with Docker]]></title>
+            <link>https://ralphdeving.github.io/blog/post/keycloak-mysql-docker-compose</link>
+            <guid>https://ralphdeving.github.io/blog/post/keycloak-mysql-docker-compose</guid>
+            <pubDate>Mon, 17 Jan 2022 09:39:04 GMT</pubDate>
+            <description><![CDATA[Quick and simple docker-compose file]]></description>
+        </item>
         <item>
             <title><![CDATA[Include Maven dependencies in .jar]]></title>
             <link>https://ralphdeving.github.io/blog/post/include-maven-dependency-jar</link>

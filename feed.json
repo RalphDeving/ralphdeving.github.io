@@ -10,6 +10,14 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/keycloak-mysql-docker-compose",
+            "url": "https://ralphdeving.github.io/blog/post/keycloak-mysql-docker-compose",
+            "title": "Using MySQL as Database for Keycloak with Docker",
+            "summary": "Quick and simple docker-compose file",
+            "date_modified": "2022-01-17T09:39:04.404Z",
+            "date_published": "2022-01-17T09:39:04.404Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/include-maven-dependency-jar",
             "url": "https://ralphdeving.github.io/blog/post/include-maven-dependency-jar",
             "title": "Include Maven dependencies in .jar",
