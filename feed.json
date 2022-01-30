@@ -10,6 +10,14 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/keycloak-user-attributes-tokens",
+            "url": "https://ralphdeving.github.io/blog/post/keycloak-user-attributes-tokens",
+            "title": "Add user attributes to tokens on Keycloak",
+            "summary": "Handle user attributes using the REST API and Java",
+            "date_modified": "2022-01-30T22:38:20.986Z",
+            "date_published": "2022-01-30T22:38:20.986Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/keycloak-mysql-docker-compose",
             "url": "https://ralphdeving.github.io/blog/post/keycloak-mysql-docker-compose",
             "title": "Using MySQL as Database for Keycloak with Docker",
