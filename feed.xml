@@ -4,9 +4,16 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Sun, 30 Jan 2022 23:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 07:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Resize images on Tiptap Editor with Vue]]></title>
+            <link>https://ralphdeving.github.io/blog/post/tiptap-image-resize-vue</link>
+            <guid>https://ralphdeving.github.io/blog/post/tiptap-image-resize-vue</guid>
+            <pubDate>Mon, 07 Feb 2022 07:16:40 GMT</pubDate>
+            <description><![CDATA[Quick and simple way]]></description>
+        </item>
         <item>
             <title><![CDATA[Add user attributes to tokens on Keycloak]]></title>
             <link>https://ralphdeving.github.io/blog/post/keycloak-user-attributes-tokens</link>
