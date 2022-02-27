@@ -10,6 +10,14 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/vue-v-model-custom-component",
+            "url": "https://ralphdeving.github.io/blog/post/vue-v-model-custom-component",
+            "title": "Using v-model with custom components",
+            "summary": "Avoid the Vue warn message",
+            "date_modified": "2022-02-27T18:00:47.097Z",
+            "date_published": "2022-02-27T18:00:47.097Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/tiptap-image-resize-vue",
             "url": "https://ralphdeving.github.io/blog/post/tiptap-image-resize-vue",
             "title": "Resize images on Tiptap Editor with Vue",

@@ -4,9 +4,16 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Mon, 07 Feb 2022 07:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 18:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Using v-model with custom components]]></title>
+            <link>https://ralphdeving.github.io/blog/post/vue-v-model-custom-component</link>
+            <guid>https://ralphdeving.github.io/blog/post/vue-v-model-custom-component</guid>
+            <pubDate>Sun, 27 Feb 2022 18:00:47 GMT</pubDate>
+            <description><![CDATA[Avoid the Vue warn message]]></description>
+        </item>
         <item>
             <title><![CDATA[Resize images on Tiptap Editor with Vue]]></title>
             <link>https://ralphdeving.github.io/blog/post/tiptap-image-resize-vue</link>
