@@ -4,9 +4,16 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Sun, 27 Feb 2022 18:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 07:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Using UUID as ID in MySQL]]></title>
+            <link>https://ralphdeving.github.io/blog/post/uuid-mysql-jpa</link>
+            <guid>https://ralphdeving.github.io/blog/post/uuid-mysql-jpa</guid>
+            <pubDate>Thu, 10 Mar 2022 07:06:56 GMT</pubDate>
+            <description><![CDATA[And a Hibernate / JPA example]]></description>
+        </item>
         <item>
             <title><![CDATA[Using v-model with custom components]]></title>
             <link>https://ralphdeving.github.io/blog/post/vue-v-model-custom-component</link>

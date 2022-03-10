@@ -10,6 +10,14 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/uuid-mysql-jpa",
+            "url": "https://ralphdeving.github.io/blog/post/uuid-mysql-jpa",
+            "title": "Using UUID as ID in MySQL",
+            "summary": "And a Hibernate / JPA example",
+            "date_modified": "2022-03-10T07:06:56.227Z",
+            "date_published": "2022-03-10T07:06:56.227Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/vue-v-model-custom-component",
             "url": "https://ralphdeving.github.io/blog/post/vue-v-model-custom-component",
             "title": "Using v-model with custom components",
