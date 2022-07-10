@@ -10,6 +10,14 @@
     },
     "items": [
         {
+            "id": "https://ralphdeving.github.io/blog/post/axios-php-sessions",
+            "url": "https://ralphdeving.github.io/blog/post/axios-php-sessions",
+            "title": "Using PHP sessions with Axios",
+            "summary": "And a little bit of CORS",
+            "date_modified": "2022-07-10T01:58:56.232Z",
+            "date_published": "2022-07-10T01:58:56.232Z"
+        },
+        {
             "id": "https://ralphdeving.github.io/blog/post/quick-starter-php-project",
             "url": "https://ralphdeving.github.io/blog/post/quick-starter-php-project",
             "title": "Quick starter PHP and PostgreSQL Project",

@@ -4,9 +4,16 @@
         <title>Hello There!</title>
         <link>https://ralphdeving.github.io</link>
         <description>Welcome to my personal blog of everyday development issues and solutions.</description>
-        <lastBuildDate>Sun, 08 May 2022 01:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 02:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Using PHP sessions with Axios]]></title>
+            <link>https://ralphdeving.github.io/blog/post/axios-php-sessions</link>
+            <guid>https://ralphdeving.github.io/blog/post/axios-php-sessions</guid>
+            <pubDate>Sun, 10 Jul 2022 01:58:56 GMT</pubDate>
+            <description><![CDATA[And a little bit of CORS]]></description>
+        </item>
         <item>
             <title><![CDATA[Quick starter PHP and PostgreSQL Project]]></title>
             <link>https://ralphdeving.github.io/blog/post/quick-starter-php-project</link>
